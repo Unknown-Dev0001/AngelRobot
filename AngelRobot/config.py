@@ -2,8 +2,8 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 24523897
-    API_HASH = "e581880ff82e201ce3dd007f06384074"
+    API_ID = 
+    API_HASH = ""
 
     CASH_API_KEY = "WP5E0PW819TB1YBJ"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
@@ -18,7 +18,7 @@ class Config(object):
 
     SUPPORT_CHAT = "BotVerseRaviSupport"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "5953802361:AAGI-QOMhKYOwfqzFmR-NJDc3TcKMQ2ylz4"  # Get bot token from @BotFather on Telegram
+    TOKEN = ""  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "UGY3YRGBQPLZ"  # Get this value from https://timezonedb.com/api
 
